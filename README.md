@@ -1,7 +1,7 @@
 # Deep-Learning
 
 Kunskapskontroll 1 kod:
-Denna mapp innehåller Python koden för kunskapskontroll 1
+Denna mapp innehåller Python koden för kunskapskontroll 1 i kursen Deep Learning. 
 
 
 Projektmapp:
